@@ -1,6 +1,6 @@
 cask "hoverlens" do
-  version "0.2.1"
-  sha256 "70f5c7346c2e4bbf874187259e5e70ae9d303f8b505b5ad112b89b45ba6accf2"
+  version "0.2.2"
+  sha256 "edba98d1cd4252fe7429b2653f52b34a20afcadc98695f669f90b4136c232ae4"
 
   url "https://github.com/juntegral/hoverlens/releases/download/v#{version}/HoverLens-#{version}.zip"
   name "HoverLens"
