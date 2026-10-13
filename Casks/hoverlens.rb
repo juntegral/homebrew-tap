@@ -2,10 +2,10 @@ cask "hoverlens" do
   version "0.1.0"
   sha256 "c334f24e1f739162340d86c00879fb0233b2a1a1f7cebc52e463e1b5f0e8d81f"
 
-  url "https://github.com/juntegral/homebrew-tap/releases/download/v#{version}/HoverLens-#{version}.zip"
+  url "https://github.com/juntegral/hoverlens/releases/download/v#{version}/HoverLens-#{version}.zip"
   name "HoverLens"
   desc "Answers for the text under the pointer, shown in a panel beside it"
-  homepage "https://github.com/juntegral/homebrew-tap"
+  homepage "https://github.com/juntegral/hoverlens"
 
   livecheck do
     url :url
